@@ -21,9 +21,6 @@ node_modules
 
 # Other
 .env
-public/*
-!public/data
-public/data/*
 !public/data/.gitkeep
 apps/web/public/*
 apps/web/dist/data
